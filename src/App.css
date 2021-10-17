@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+}
+
+.glassmorph {
+	background: rgba( 255, 255, 255, 0.05 );
+	box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+	backdrop-filter: blur( 2px );
+	-webkit-backdrop-filter: blur( 2px );
+	border-radius: 5px;
+	border: 1px solid rgba( 255, 255, 255, 0.1 );
+	font-family: Courier New;
+}
+
+.logo {
+	display: flex;
+	justify-content: center;
+	padding: 5px;
+}
+
+.inputbox {
+	margin: 5px;
+	padding: 5px;
+	width: 50%
+}
+
+button {
+	font-size: medium;
+	margin: 5px;
+	padding:3px;
+}
+
+button:hover {
+	cursor: pointer;
+}
+
+
+
+
+
+
